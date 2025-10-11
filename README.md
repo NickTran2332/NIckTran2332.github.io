@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicholas Tran</h1>
+<h1 align="center">Hi, I'm Nicholas Tran</h1>
 <h3 align="center">A third-year student at West Chester University</h3>
 
 - 🌱 I’m currently learning **Operating Systems, Computer Security, Programming Languages and Paradigms**
