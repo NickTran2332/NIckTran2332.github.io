@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicholas Tran</h1>
-<h3 align="center">A third-year student at West Chester University</h3>
+<h3 align="center">A fourth-year student at West Chester University</h3>
 
-* 🌱 I’m currently learning **Operating Systems, Computer Security, Programming Languages and Paradigms**
+* 🌱 I’m currently learning **Operating Systems, Computer Security, Programming Languages and Paradigms, Data Analytics**
 * 📫 How to reach me **[nicholastran10023@gmail.com](mailto:nicholastran10023@gmail.com)**
 
 ### 🎥 Presentation
